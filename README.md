@@ -106,8 +106,7 @@ ai-msp-service-desk/
 │   └── IT-Service-Desk-SOP.pdf                       # end-user / manager SOP
 ├── knowledge-base/
 │   └── KnowledgeBase-sample.csv                      # sample KB for testing
-└── assets/
-    └── workflow-diagram.png                          # architecture diagram
+                      
 ```
 
 ---
