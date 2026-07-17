@@ -54,7 +54,7 @@ Customer Form Submission
  Rejected  → escalate path
 ```
 
-1. **Intake** — a customer submits a ticket via an n8n Form Trigger (name, company, email, problem description)
+1. **Intake** - a customer submits a ticket via an n8n Form Trigger (name, company, email, problem description)
 2. **Classification** - an AI agent (GPT-4o-mini) tags the ticket with category, priority, and confidence
 3. **Knowledge base check** - the ticket is matched against documented fixes stored in Google Sheets
 4. **Decision** - a second AI agent decides whether the ticket can be safely auto-resolved, grounded strictly in the KB (no hallucinated fixes)
