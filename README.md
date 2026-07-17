@@ -132,3 +132,6 @@ Full setup instructions, including required Google Sheets structure, credential 
 
 ---
 
+*An autonomous LLM support agent constrained by design: no resolution without a
+documented match, no high-priority action without human sign-off, and no silent
+failures thanks to retry logic and a dedicated error lane.*
