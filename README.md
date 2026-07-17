@@ -132,4 +132,3 @@ Full setup instructions, including required Google Sheets structure, credential 
 
 ---
 
-*Built as a portfolio project demonstrating AI-driven workflow automation, human-in-the-loop design, and production-grade error handling in n8n.*
